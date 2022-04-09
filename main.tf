@@ -15,3 +15,5 @@ resource "aws_s3_bucket" "b" {
   bucket = "demo-bucket-terraform"
   acl    = "public-read"
 }
+
+# all good thank you
